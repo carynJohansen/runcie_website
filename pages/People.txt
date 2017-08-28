@@ -3,8 +3,12 @@
 Junqiang Xu
 
 Caryn Johansen- computational biologist
-Quick edit
 
-James Ta - non-star student
+Caryn is interested in how plants respond to their environments, and the changes those interactions can have on populations and genetic variation. She is also interested in gene expression as a quantitative trait.
+Maize presents a excellent model organism for these questions, in part due to the amount of genetic information available. In addition,
+maize has many landraces with an abundance of different phenotypic traits. 
+This is an exciting phenotypic space to explore, and Caryn aims to do so using statistical models to unerstand the relationship between environment and gene expression.
 
-Taylor Crow sucks
+James Ta
+
+Taylor Crow 
