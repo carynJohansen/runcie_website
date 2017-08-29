@@ -1,14 +1,9 @@
+Caryn Johansen:
+Caryn is a graduate student in the Plant Biology Graduate Group and is co-advised by Jeffery Ross-Ibarra.
+Caryn is interested in how plants respond to their local environment, and the impact those interactions can have on trait expression and genetic variation at a population level. She is also interested in gene expression as a quantitative trait.
+Maize presents a excellent model organism for these questions, in part due to the amount of genetic information available. 
+In addition, maize has many landraces that are adapted to a variety of environments and have abundance of different phenotypic traits. 
+This is an exciting phenotypic space to explore, and Caryn aims to do so using statistical models to understand the relationship between environment and gene expression.
+Eventually, she would like to more accurately predict which traits climate change impacts and how it does so in order to facilitate breeding better crops.
+She is also owns the website yoloyodelers.org (under construction and local Davis yodeler club coming soon) and enjoys running or skiing long distances depending on the season.
 
-
-Junqiang Xu
-
-Caryn Johansen- computational biologist
-
-Caryn is interested in how plants respond to their environments, and the changes those interactions can have on populations and genetic variation. She is also interested in gene expression as a quantitative trait.
-Maize presents a excellent model organism for these questions, in part due to the amount of genetic information available. In addition,
-maize has many landraces with an abundance of different phenotypic traits. 
-This is an exciting phenotypic space to explore, and Caryn aims to do so using statistical models to unerstand the relationship between environment and gene expression.
-
-James Ta
-
-Taylor Crow 
