@@ -5,5 +5,5 @@ Maize presents a excellent model organism for these questions, in part due to th
 In addition, maize has many landraces that are adapted to a variety of environments and have abundance of different phenotypic traits. 
 This is an exciting phenotypic space to explore, and Caryn aims to do so using statistical models to understand the relationship between environment and gene expression.
 Eventually, she would like to more accurately predict which traits climate change impacts and how it does so in order to facilitate breeding better crops.
-She is also owns the website yoloyodelers.org (under construction and local Davis yodeler club coming soon) and enjoys running or skiing long distances depending on the season.
+She is also owns the website yoloyodelers.org (under construction and local Davis yodeler club coming soon) and enjoys running or skiing long distances, seasonal dependent.
 
